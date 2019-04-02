@@ -5,3 +5,5 @@ Beginner:
 
 Rock, Paper, scissors
 
+Team Verdeler
+
